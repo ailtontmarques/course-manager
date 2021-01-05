@@ -1,6 +1,6 @@
 # Este exercício é original da plataforma [Digital Innovation One](https://digitalinnovation.one/)
 
-Através de exercício guiado, foi possível desenvolver uma aplicação simples que gerencia um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
+Através de exercício guiado, foi possível desenvolver uma aplicação simples que gerencia um sistema de cursos, com as funcionalidades de cadastro, edição e listagem.
 
 ## Para a instalação
 
